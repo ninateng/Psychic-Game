@@ -1,2 +1,16 @@
 # Psychic-Game
-1. [Watch the demo](https://youtu.be/qTc45Lox97g).  2. You're going to make a game just like the one in the video. Essentially, the app randomly picks a letter, and the user has to guess which letter the app chose. Put the following text on your page:  3. Guess what letter I'm thinking of  4. Wins: (# of times the user has guessed the letter correctly)  5. Losses: (# of times the user has failed to guess the letter correctly after exhausting all guesses)  6. Guesses Left: (# of guesses left. This will update)  7. Your Guesses So Far: (the specific letters that the user typed. Display these until the user either wins or loses.)  8. When the player wins, increase the Wins counter and start the game over again (without refreshing the page).  9. When the player loses, increase the Losses counter and restart the game without a page refresh (just like when the user wins).
+
+This program allows user interaction. The user is randomly choosing a letter in hopes
+to randomly match the computer's randomly chosen letter. If the user clicks a key that
+is not a letter, user is notified. There are counters displayed showing amount of guesses,
+wins, losses, and which keys have been selected.
+
+This project is useful for interactive webpages/games.
+
+Users who would like to create this program can first get started by developing a psuedo code.
+From there users can utilize text books or online websites such as Stackoverflow, W3schools,
+and many more - simply google  your questions with the specific language!
+
+I maintain this program as well as its only contributor!
+
+Thak you for reading!
